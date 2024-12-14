@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kanzur95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M9Nlwni_PwqmuVjf7o_9wdJ2-V_8OpZz/view?usp=sharing](https://drive.google.com/file/d/1M9Nlwni_PwqmuVjf7o_9wdJ2-V_8OpZz/view?usp=sharing)
+- 📄 Know about my experiences [View Kanzurrizk](https://drive.google.com/file/d/17qLEYf7FqaL4-L4UjEzIl9r_pRQ6RkWw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
