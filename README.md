@@ -1,35 +1,68 @@
+## 👋 Hey there, I'm Kanzurrizk Rihan
 
-<h1 align="center">Hi 👋, I'm Kanzurrizk Rihan</h1>
-<h3 align="justify">I am currently pursuing a BSc. (Hon's) in Information Technology with a specialization in Information Technology at Sri Lanka Institute of Information Technology. At Zahira College Colombo, where I started my academic career, I gained a solid foundation in Science and Technology. I became passionate about using technology to solve challenging problems thereafter actively participating in technology-based societies as well. <br/>I'm dedicated to lifelong learning and professional development in the Information Technology sector, driven by my excitement for technology's revolutionary potential. I'm eager to connect with professionals who share my passion and explore opportunities to contribute meaningfully to innovative projects and initiatives.</h3>
-
-<br/><br/><br/>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanzur&label=Profile%20views&color=0e75b6&style=flat" alt="kanzur" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=kanzur&label=Profile%20views&color=0e75b6&style=flat" alt="kanzur" />
 
 
-- 🌱 I’m currently learning **MERN Stack, Java, HTML, CSS, JavaScript, SQL, C, C++**
+<a href="https://github.com/kanzur" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/kanzurrizk/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/kanzurrizk/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
-- 💬 Ask me about **MERN Stack, Java, HTML, CSS, JavaScript, SQL, C, C++**
+---
 
-- 📫 How to reach me **kanzur95@gmail.com**
+### About Me
 
-- 📄 Know about my experiences [View Kanzurrizk](https://drive.google.com/file/d/17qLEYf7FqaL4-L4UjEzIl9r_pRQ6RkWw/view?usp=sharing)
+I’m currently pursuing a **BSc (Hons) in Information Technology** at the **Sri Lanka Institute of Information Technology**, with a specialization in Information Technology.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kanzurrizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kanzurrizk" height="30" width="40" /></a>
-<a href="https://instagram.com/kanzurrizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanzurrizk" height="30" width="40" /></a>
-</p>
-<br/><br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+My journey began at **Zahira College, Colombo**, where I built a solid foundation in Science and Technology. Since then, I’ve developed a deep passion for solving real-world problems through tech and actively contributing to tech-based communities and projects.
 
-<br/><br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanzur" alt="kanzur" /></a> </p>
+I’m a dedicated learner who is always exploring new technologies and eager to work on impactful innovations with like-minded professionals.
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzur&show_icons=true&locale=en&layout=compact" alt="kanzur" /></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanzur&show_icons=true&locale=en" alt="kanzur" /></p>
+### Quick Facts
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanzur&" alt="kanzur" /></p>
+- 🌱 Currently learning: **MERN Stack**, **Java**, **SQL**, **C/C++**, **TypeScript**
+- 💬 Ask me about: **Building scalable full-stack applications, crafting efficient backend logic, API integration, or ensuring software quality through effective testing strategies.**
+- 📄 Curriculum Vitae: [Kanzurrizk Rihan CV](https://drive.google.com/file/d/17qLEYf7FqaL4-L4UjEzIl9r_pRQ6RkWw/view?usp=sharing)
+- 📫 Reach me at: **kanzur95@gmail.com**
+
+---
+
+### Languages & Tools
+
+<div align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>
+  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="25" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>
+</div>
+
+---
+
+### GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kanzur&theme=dark&show_icons=true&rank_icon=github" height="200"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzur&theme=dark&layout=compact" height="200"/></td>
+  </tr>
+</table>
+
+
