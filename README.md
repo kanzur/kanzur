@@ -29,7 +29,7 @@ I’m a dedicated learner who is always exploring new technologies and eager to 
 
 - 🌱 Currently learning: **MERN Stack**, **Java**, **SQL**, **C/C++**, **TypeScript**
 - 💬 Ask me about: **Building scalable full-stack applications, crafting efficient backend logic, API integration, or ensuring software quality through effective testing strategies.**
-- 📄 Curriculum Vitae: [Kanzurrizk Rihan CV](https://drive.google.com/file/d/17qLEYf7FqaL4-L4UjEzIl9r_pRQ6RkWw/view?usp=sharing)
+- 📄 Curriculum Vitae: [Kanzurrizk Rihan CV](https://drive.google.com/file/d/12bwhMn1tzwHXXJ9n-0rj9VbUqMwtWn9W/view?usp=sharing)
 - 📫 Reach me at: **kanzur95@gmail.com**
 
 ---
