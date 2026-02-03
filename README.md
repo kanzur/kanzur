@@ -110,12 +110,11 @@ I'm a hands-on **Software Quality Engineer** with real-world experience running 
 
 ### 🎯 Current Focus
 
-```yaml
-🔬 Testing: Building robust automation frameworks with Selenium & Playwright
-💻 Development: Full-stack applications with React, Spring Boot & Flutter  
-🤖 AI/ML: Exploring XGBoost, CatBoost & Computer Vision with OpenCV
-🚀 DevOps: CI/CD pipelines with Jenkins & GitHub Actions
-```
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=selenium,playwright,postman,jest&theme=dark" />
+</a>
+
+**Building Robust Test Automation Frameworks**
 
 </div>
 
@@ -123,13 +122,32 @@ I'm a hands-on **Software Quality Engineer** with real-world experience running 
 
 <div align="center">
 
-### 💡 2025 Highlights
+### 💻 Tech Arsenal
 
-| 🏢 Professional | 🎓 Academic | 🏆 Achievements |
-|:---:|:---:|:---:|
-| **QE Intern @ Wiley** | **Final Year @ SLIIT** | **Test Automation Certified** |
-| Jan 2025 - Jan 2026 | BSc (Hons) IT | Test Automation University |
-| Full STLC & Agile | Software Engineering | API Expert - Postman |
+#### Testing & QA
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=selenium,playwright,postman,jest,cypress&theme=dark" />
+</a>
+
+#### Languages
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,sql&theme=dark" />
+</a>
+
+#### Frontend
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,tailwind,flutter,html,css,figma&theme=dark" />
+</a>
+
+#### Backend & Databases
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase&theme=dark" />
+</a>
+
+#### AI/ML & Tools
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,github,jenkins,docker,git&theme=dark" />
+</a>
 
 </div>
 
@@ -137,13 +155,54 @@ I'm a hands-on **Software Quality Engineer** with real-world experience running 
 
 <div align="center">
 
-### 🔥 Contribution Streak
+### � Professional Journey
 
-![](https://github.com/kanzur)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🏢_Wiley-QE_Intern-0066CC?style=for-the-badge&labelColor=000000" />
+<br><sub><b>Jan 2025 - Jan 2026</b></sub>
+<br><sub>Full STLC • Agile • CI/CD</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎓_SLIIT-Final_Year-FF6B35?style=for-the-badge&labelColor=000000" />
+<br><sub><b>BSc (Hons) IT</b></sub>
+<br><sub>Software Engineering</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📍_Location-Colombo,_SL-00D9FF?style=for-the-badge&labelColor=000000" />
+<br><sub><b>Available for Opportunities</b></sub>
+<br><sub>Full-time • Remote • Hybrid</sub>
+</td>
+</tr>
+</table>
 
-**310 Total Contributions** • **Current Streak: 1 day** • **Longest Streak: 8 days**
+</div>
 
-*Building consistently since Nov 2022* 🚀
+---
+
+<div align="center">
+
+### 🔥 Contribution Metrics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanzur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanzur&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanzur&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎖️ Achievements & Certifications
+
+<img src="https://img.shields.io/badge/✅_Test_Automation-Certified-00D9FF?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/✅_API_Expert-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🏆_BDD_Cucumber-Specialist-23D96C?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=000000" />
 
 </div>
 
