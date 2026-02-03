@@ -35,10 +35,6 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 ## 🛠️ Tech Stack
 
-### 🧪 Testing & QA
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 <a href="https://skillicons.dev">
