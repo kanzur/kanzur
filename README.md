@@ -50,26 +50,11 @@ I’m curious by nature and always looking for opportunities to improve my skill
 ---
 
 ## GitHub Activity
-
-<div align="center">
-
-### 🎯 Current Focus
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=selenium,playwright,postman,jest&theme=dark" />
-</a>
-
-**Building Robust Test Automation Frameworks**
-
-</div>
-
-
-
 ---
 
 <div align="center">
 
-### 🔥 Contribution Metrics
+### Contribution Metrics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanzur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
@@ -80,21 +65,9 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 </div>
 
----
 
-<div align="center">
 
-### 🎖️ Achievements & Certifications
-
-<img src="https://img.shields.io/badge/✅_Test_Automation-Certified-00D9FF?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/✅_API_Expert-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🏆_BDD_Cucumber-Specialist-23D96C?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=000000" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
