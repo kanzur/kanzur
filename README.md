@@ -8,13 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Quality+Engineer;Building+%26+Breaking+Things+%E2%80%94+On+Purpose+%E2%9C%93;Final+Year+Student+%40+SLIIT;Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 </a>
 
-<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanzur&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<br/>
 
 </div>
 
@@ -26,6 +20,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kanzurrizk/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanzur95@gmail.com)
 [![CV](https://img.shields.io/badge/CV-View+Here-58a6ff?style=for-the-badge&labelColor=0d1117)](https://drive.google.com/file/d/12bwhMn1tzwHXXJ9n-0rj9VbUqMwtWn9W/view?usp=sharing)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=kanzur&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
