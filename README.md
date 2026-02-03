@@ -25,7 +25,7 @@
 
 ---
 
-## 🧪 About Me
+## About Me
 
 Hi, I’m Kanzurrizk Rihan, a final-year, pursuing a BSc. (Hon's) in Information Technology with a specialization in Information Technology at SLIIT. I enjoy learning through hands-on projects and real-world experience, and I’m passionate about using technology to solve problems in meaningful ways.
 
@@ -33,7 +33,7 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -47,20 +47,9 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 </div>
 
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Provider |
-|:---:|:---:|
-| ✅ Test Automation | [Test Automation University](https://testautomationu.com/) |
-| ✅ API Fundamentals — Student Expert | [Postman](https://www.getpostman.com/) |
-
-</div>
-
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -74,66 +63,7 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 </div>
 
----
 
-<div align="center">
-
-### 💻 Tech Arsenal
-
-#### Testing & QA
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=selenium,playwright,postman,jest,cypress&theme=dark" />
-</a>
-
-#### Languages
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,sql&theme=dark" />
-</a>
-
-#### Frontend
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,tailwind,flutter,html,css,figma&theme=dark" />
-</a>
-
-#### Backend & Databases
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase&theme=dark" />
-</a>
-
-#### AI/ML & Tools
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,github,jenkins,docker,git&theme=dark" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### � Professional Journey
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🏢_Wiley-QE_Intern-0066CC?style=for-the-badge&labelColor=000000" />
-<br><sub><b>Jan 2025 - Jan 2026</b></sub>
-<br><sub>Full STLC • Agile • CI/CD</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎓_SLIIT-Final_Year-FF6B35?style=for-the-badge&labelColor=000000" />
-<br><sub><b>BSc (Hons) IT</b></sub>
-<br><sub>Software Engineering</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📍_Location-Colombo,_SL-00D9FF?style=for-the-badge&labelColor=000000" />
-<br><sub><b>Available for Opportunities</b></sub>
-<br><sub>Full-time • Remote • Hybrid</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
