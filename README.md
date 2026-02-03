@@ -116,7 +116,7 @@ I'm a hands-on **Software Quality Engineer** with real-world experience running 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kanzur&theme=github-dark-navbar&hide_border=true&stroke=58a6ff&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9&currStreakLabel=58a6ff&daysRange=c9d1d9&background=0d1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=kanzur&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
