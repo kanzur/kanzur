@@ -37,57 +37,19 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 ### 🧪 Testing & QA
 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=selenium,playwright&theme=dark" />
-</a>
+## 🛠️ Tech Stack
 
-`Selenium` `Playwright` `Cucumber (BDD)` `TestRail` `Postman` `Manual Testing` `Regression` `Smoke` `API Testing`
-
----
-
-### 💻 Languages
+<div align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=selenium,playwright,postman,jest,cypress,java,javascript,typescript,python,sql&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,flutter,html,css,figma,spring,nodejs,express,mongodb&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,tensorflow,opencv,github,jenkins,docker,git&theme=dark" />
 </a>
 
----
-
-### 🌐 Frontend
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,tailwind,flutter,html,css&theme=dark" />
-</a>
-
----
-
-### ⚙️ Backend & Databases
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb&theme=dark" />
-</a>
-
----
-
-### 🤖 ML & AI
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-</a>
-
-`XGBoost` `CatBoost` `SHAP` `Grad-CAM`
-
----
-
-### 🚀 DevOps & Tools
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,jenkins,sonarqube&theme=dark" />
-</a>
-
-`Confluence` `Jira`
-
----
+</div>
 
 ## 🏆 Certifications
 
