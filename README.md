@@ -40,9 +40,7 @@ I’m curious by nature and always looking for opportunities to improve my skill
 <!-- Testing & QA -->
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
 <br/>
 
@@ -79,13 +77,13 @@ I’m curious by nature and always looking for opportunities to improve my skill
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
 </div>
 
 ---
 
 ## GitHub Activity
----
 
 <div align="center">
 
@@ -112,4 +110,8 @@ I’m curious by nature and always looking for opportunities to improve my skill
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/kanzur/kanzur/main/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanzur&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile Views" />
 </div>
