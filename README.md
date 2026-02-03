@@ -10,6 +10,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanzur&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br/>
+
 </div>
 
 ---
@@ -87,17 +93,9 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 <div align="center">
 
-### Contribution Metrics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanzur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanzur&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanzur&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
 
 </div>
-
 
 
 ## Contribution Snake
@@ -112,6 +110,4 @@ I’m curious by nature and always looking for opportunities to improve my skill
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanzur&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile Views" />
-</div>
+
