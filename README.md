@@ -27,15 +27,9 @@
 
 ## 🧪 About Me
 
-```
-🔍  I test software so it doesn't break in production.
-🛠️  I also build the things I test (yes, really).
-🏢  Interned at Wiley Global Technology  (Jan 2025 – Jan 2026)
-🎓  BSc (Hons) IT — SLIIT, Final Year
-📍  Colombo, Sri Lanka
-```
+Hi, I’m Kanzurrizk Rihan, a final-year, pursuing a BSc. (Hon's) in Information Technology with a specialization in Information Technology at SLIIT. I enjoy learning through hands-on projects and real-world experience, and I’m passionate about using technology to solve problems in meaningful ways.
 
-I'm a hands-on **Software Quality Engineer** with real-world experience running full STLC cycles, writing automation frameworks, and shipping in Agile sprints. I also enjoy building full-stack and AI-powered applications on the side.
+I’m curious by nature and always looking for opportunities to improve my skills, work collaboratively, and contribute positively to any team I’m part of. I’m especially interested in how systems work, how they can be improved, and how quality can be maintained throughout the development process.
 
 ---
 
