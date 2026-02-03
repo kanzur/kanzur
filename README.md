@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated header banner — save header.svg in the root of this repo -->
-<img src="https://raw.githubusercontent.com/kanzur/kanzur/main/header.svg" alt="Kanzurrizk Rihan" />
+# 👋 Hi, I'm Kanzurrizk Rihan
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3500&pause=1200&color=58A6FF&background=0d1117&center=true&vCenter=true&multiline=true&width=550&lines=Hi!+I'm+a+QE+Engineer+🧪;I+build+and+break+things+—+on+purpose+✓;Currently+@+Wiley+Global+Technology;Final+Year+@+SLIIT+🎓)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=QE+Engineer+%F0%9F%A7%AA+%7C+Test+Automation+Specialist;Building+%26+Breaking+Things+—+On+Purpose+%E2%9C%93;Currently+%40+Wiley+Global+Technology;Final+Year+Student+%40+SLIIT+%F0%9F%8E%93;Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 
 </div>
 
