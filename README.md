@@ -104,11 +104,46 @@ I'm a hands-on **Software Quality Engineer** with real-world experience running 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kanzur&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
+### 🎯 Current Focus
+
+```yaml
+🔬 Testing: Building robust automation frameworks with Selenium & Playwright
+💻 Development: Full-stack applications with React, Spring Boot & Flutter  
+🤖 AI/ML: Exploring XGBoost, CatBoost & Computer Vision with OpenCV
+🚀 DevOps: CI/CD pipelines with Jenkins & GitHub Actions
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 2025 Highlights
+
+| 🏢 Professional | 🎓 Academic | 🏆 Achievements |
+|:---:|:---:|:---:|
+| **QE Intern @ Wiley** | **Final Year @ SLIIT** | **Test Automation Certified** |
+| Jan 2025 - Jan 2026 | BSc (Hons) IT | Test Automation University |
+| Full STLC & Agile | Software Engineering | API Expert - Postman |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+![](https://github.com/kanzur)
+
+**310 Total Contributions** • **Current Streak: 1 day** • **Longest Streak: 8 days**
+
+*Building consistently since Nov 2022* 🚀
 
 </div>
 
